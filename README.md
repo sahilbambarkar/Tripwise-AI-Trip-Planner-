@@ -60,7 +60,7 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 
 
-<h2>Live Demo:tripwise-ai-trip-planner.vercel.app</h2>
+<h2>Live Demo:https://tripwise-ai-trip-planner.vercel.app</h2>
 
 
 
