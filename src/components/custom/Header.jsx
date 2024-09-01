@@ -31,7 +31,7 @@ function Header() {
   }, [user]);
 
   const handleContactUs = () => {
-    window.location.href = 'mailto:sahilbambar007@gmail.com';
+    window.location.href = 'mailto:sahilbambarkar007@gmail.com';
   };
 
   const GetUserProfile = (tokenInfo) => {
