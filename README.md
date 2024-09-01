@@ -1,4 +1,4 @@
-<h1>Tripwise - AI-Powered Trip Planner 🌍✈️e</h1>
+<h1>Tripwise - AI-Powered Trip Planner 🌍✈️</h1>
 <h2>Tripwise is a cutting-edge trip planning application that leverages the power of AI to create personalized travel itineraries. Built with React, Gemini AI, Firebase, and TailwindCSS, this full-stack app offers a seamless and intelligent way to plan your next adventure. 🚀</h2>
 
 <h2>Features 🌟</h2>
@@ -20,8 +20,9 @@ Secure Authentication: Protect your travel plans and personal data with the robu
   2.Google maps api<br>
   3. Vite<br>
   4.Google oauth <br>
-  5.Shad Cn <br>
-  6. Tailwind css</ul>
+  5.ShadCn UI <br>
+  6. Firebase<br>
+  7. Tailwind css</ul>
 </li></h3>
 
 First, run the development server: 🏁
@@ -59,7 +60,7 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 
 
-<h2>Live Demo:</h2>
+<h2>Live Demo:tripwise-ai-trip-planner.vercel.app</h2>
 
 
 
